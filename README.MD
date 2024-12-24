@@ -73,7 +73,7 @@ pip install streamlit pandas scikit-learn
 
 ## Auteurs ✍️
 
-- **MEROUANE BENELABDY** - Développeur de l'application.
+- **Boujir Mahmoud** - Développeur de l'application.
 
 ---
 
